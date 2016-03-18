@@ -1,0 +1,6 @@
+nano:
+Version=2.5.3
+Type=Application
+Name=Nano
+Description=A text editor
+Size=?
