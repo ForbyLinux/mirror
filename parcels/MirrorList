@@ -5,4 +5,5 @@ Name=Nano
 Description=A text editor
 Size=1176113
 Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/nano-2.5.3-x64.par
+Dependencies=
 !
