@@ -3,7 +3,7 @@ Version=2.5.3
 Type=Application
 Name=Nano
 Description=A text editor
-Size=1176113
+Size=1176129
 Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/nano-2.5.3-x64.par
 Dependencies=
 !
