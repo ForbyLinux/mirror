@@ -18,3 +18,13 @@ Architecture=x64
 Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/kernel-headers-4.2.par
 Dependencies=
 !
+parcel:
+Version=0.0.1
+Type=Application
+Name=parcel
+Description=The Forby package management tool
+Size=25076
+Architecture=x64
+Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/parcel-0.0.1.par
+Dependencies=
+!
