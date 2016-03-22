@@ -8,14 +8,14 @@ Architecture=x64
 Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/nano-2.5.3-x64.par
 Dependencies=
 !
-kernel-headers:
+linux-headers:
 Version=4.2
 Type=Library
-Name=kernel-headers
+Name=linux-headers
 Description=Linux kernel headers
 Size=778840
 Architecture=x64
-Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/kernel-headers-4.2.par
+Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/linux-headers.par
 Dependencies=
 !
 parcel:
