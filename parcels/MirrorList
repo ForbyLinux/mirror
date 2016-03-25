@@ -3,28 +3,9 @@ Version=2.5.3
 Type=Application
 Name=nano
 Description=A text editor
-Size=522412
+DownloadSize=522412
+InstalledSize=2737312
 Architecture=x64
 Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/nano-2.5.3-x64.par
-Dependencies=
-!
-linux-headers:
-Version=4.2
-Type=Library
-Name=linux-headers
-Description=Linux kernel headers
-Size=778840
-Architecture=x64
-Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/linux-headers.par
-Dependencies=
-!
-parcel:
-Version=0.0.1
-Type=Application
-Name=parcel
-Description=The Forby package management tool
-Size=25076
-Architecture=x64
-Source=https://github.com/ForbyLinux/mirror/raw/gh-pages/parcels/parcel-0.0.1.par
 Dependencies=
 !
